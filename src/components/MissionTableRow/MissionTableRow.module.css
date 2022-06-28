@@ -4,6 +4,19 @@
     border-top: 1px solid black;
 }
 
+.row > td:first-child {
+    width: 15%;
+}
+
+.row > td:nth-child(2) {
+    width: 45%;
+}
+
+.row > td:nth-child(n+3) {
+    width: 10%;
+}
+
+
 .url {
     text-decoration: none;
     color: #005288;
