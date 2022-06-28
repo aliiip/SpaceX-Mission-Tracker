@@ -1,0 +1,20 @@
+.form {
+    text-align: center;
+    margin: 0.75rem 1rem;
+}
+
+.input {
+    padding: 0.25rem;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-weight: 800;
+    font-family: monospace;
+    margin-left: 0.5rem;
+    text-transform: uppercase;
+}

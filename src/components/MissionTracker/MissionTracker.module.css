@@ -1,0 +1,18 @@
+.missionTrackerContainer {
+    margin: 2rem auto;
+}
+
+.heading {
+    width: fit-content;
+    margin: auto;
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+.errorText {
+    color: red;
+    font-family: monospace;
+    margin: 1.5rem auto;
+    width: fit-content;
+    font-size: 1rem;
+}
